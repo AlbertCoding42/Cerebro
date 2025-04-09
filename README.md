@@ -1,5 +1,5 @@
 # AFUS-Cerebro
-Cerebro will act as the “Mindmap” for InsightAC-1 which will visualize all data inputs for a user while utilizing the model. Cerebro is Spanish for “Brain” - our hope is to render a realistic representation of a human brain containing: neural networks &amp; data points. 
+Python-based 3D visualization system that transforms AI conversation data into an interactive brain-like representation using advanced dimensionality reduction techniques and graph-based networks, enabling intuitive exploration of semantic relationships between conversation elements.
 
 
 ## Setup
